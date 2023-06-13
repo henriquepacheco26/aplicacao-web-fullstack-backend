@@ -1,6 +1,6 @@
 # Backend - Aplicação Web - Cardápio Digital.
 
-Aplicação Fullstack:
+Aplicação Backend desenvolvida utilizando:
 
 Java Spring e Spring MVC: Servidor.
 
