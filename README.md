@@ -8,5 +8,5 @@ Spring Data JPA: Manipulação e Persistência de Dados.
 
 Lombok: Geração de boilerplates.
 
-PostgresSQL: Banco de Dados da API.
+PostgreSQL: Banco de Dados da API.
 
